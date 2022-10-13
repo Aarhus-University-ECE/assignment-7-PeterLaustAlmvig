@@ -26,6 +26,5 @@ double taylor_sine(double x, int n){
             sine += nume/denom;
         }
         }
-
     return sine;
 }
